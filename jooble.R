@@ -23,7 +23,6 @@ data <- data.frame(
   alamat = head(alamat,5),
   stringsAsFactors = FALSE
 )
-View(data)
 
 # MONGODB
 message('Input Data to MongoDB Atlas')
